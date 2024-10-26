@@ -1,0 +1,7 @@
+'''
+This repository includes code package and sample data for calculating joint angle from joint coordinates.
+The codes are written in Python and make use of modules Numpy, Pandas, and Matplotlib.
+jointanglefunction.py contains encapsulated functions and
+jointanglemain.py shows how it can be implemented.
+sample data are in csv files.
+'''
